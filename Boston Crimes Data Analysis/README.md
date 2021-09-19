@@ -10,6 +10,8 @@ Data Analysis using the 'Boston Crime Dataset' provided by the Boston Police Dep
 
 - Data Preprocessing
 
-- Data Visualization (including interactive map using the Folium library)
+- Data Visualization
 
 - Clustering using KMeans
+
+- Interactive map using the Folium library (Use [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/myioannis/University-Assignments/blob/main/Boston%20Crimes%20Data%20Analysis/Boston%20Crimes%20Data%20Analysis.ipynb) to see the map because github doesn't allow javascript)
