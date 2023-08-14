@@ -6,6 +6,10 @@ This is an assigment for the 'Data Mining Techniques' course at the Department o
 
 Twitter Sentiment Analysis using data from the SemEval (International Workshop on Semantic Evaluation) - 2017 competition.
 
+# Tech Stack
+
+Python, **Scikit-learn**, NLTK, Pandas, Numpy, Matplotlib
+
 # Featured
 
 ### Data Preprocessing
