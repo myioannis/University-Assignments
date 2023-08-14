@@ -8,6 +8,10 @@ This is an assigment for the 'Machine Learning in Computational Biology' course 
 
 Implementation and performance comparison of various ML models (classification) for the diagnosis of Hepatitis C patients.
 
+# Tech Stack
+
+Python, **Scikit-learn**, Optuna, Pandas, Pandas-Profiling, Numpy, Matplotlib
+
 # Featured
 
 - End-to-End preprocessing+training pipeline
