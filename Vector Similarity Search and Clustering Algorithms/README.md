@@ -8,6 +8,10 @@ This is an assigment for the 'Software Development for Algorithmic Problems' cou
 
 Implementation of vector similarity search and vector clustering algorithms in C/C++ and use of them on the MNIST dataset of handwritten digits.
 
+# Tech Stack
+
+**C/C++**
+
 # Featured
 
 - **Vector Similarity Search**
