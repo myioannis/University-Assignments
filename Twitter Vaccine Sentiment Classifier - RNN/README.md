@@ -4,7 +4,7 @@ This is an assigment for the 'Deep Learning for Natural Language Processing' cou
 
 # Short Description
 
-Developed a sentiment classifier with 3 classes (pro-vax, anti-vax, neutral) using a bidirectional stacked **RNN** with **LSTM/GRU** cells for a Twitter vaccine sentiment dataset.
+Developed a sentiment classifier with 3 classes (pro-vax, anti-vax, neutral) using a bidirectional stacked **RNN** with **LSTM/GRU** cells for a Twitter COVID-19 vaccine sentiment dataset.
 
 # Tech Stack
 
