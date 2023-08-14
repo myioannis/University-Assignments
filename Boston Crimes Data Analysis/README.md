@@ -7,6 +7,10 @@ This is an assigment for the 'Data Mining Techniques' course at the Department o
 
 Data Analysis using the 'Boston Crime Dataset' provided by the Boston Police Department.
 
+# Tech Stack
+
+Python, **Scikit-learn**, Folium, Pandas, Numpy, Matplotlib, Seaborn
+
 # Featured
 
 - Data Preprocessing
