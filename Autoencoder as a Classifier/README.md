@@ -8,6 +8,10 @@ This is an assigment for the 'Software Development for Algorithmic Problems' cou
 
 Implementation of a convolutional autoencoder to classify the handwritten digits of the MNIST dataset.
 
+# Tech Stack
+
+Python, **Keras**, Scikit-learn, Pandas, Numpy, Matplotlib
+
 # Featured
 
 - Data Preprocessing
