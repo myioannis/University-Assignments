@@ -6,6 +6,10 @@ This is an assigment for the 'Computational Geometry' course at the Department o
 
 Various tasks concerning the k-NN algorithm.
 
+# Tech Stack
+
+**Python**, Pandas, Numpy, Matplotlib
+
 # Featured
 
 - Implementation of k-NN in python
