@@ -4,7 +4,11 @@ This is an assigment for the 'Deep Learning for Natural Language Processing' cou
 
 # Short Description
 
-A COVID-19 vaccine sentiment classifier using a simple Feed-Forward Neural Network in Pytorch.
+Developed a sentiment classifier with 3 classes (pro-vax, anti-vax, neutral) using a simple **Feed-Forward Neural Network** for a Twitter COVID-19 vaccine sentiment dataset.
+
+# Tech Stack
+
+Python, **Pytorch**, Scikit-learn, NLTK, Pandas, Numpy, Matplotlib
 
 # Featured
 
