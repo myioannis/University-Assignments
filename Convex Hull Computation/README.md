@@ -8,6 +8,10 @@ This is an assigment for the 'Computational Geometry' course at the Department o
 
 Convex Hull Computation Algorithms.
 
+# Tech Stack
+
+**Python**, Numpy, Matplotlib
+
 # Featured
 
 - Graham's Scan (Incremental Algorithm)
