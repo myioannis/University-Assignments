@@ -4,7 +4,7 @@ This is an assigment for the 'Deep Learning for Natural Language Processing' cou
 
 # Short Description
 
-A COVID-19 vaccine sentiment classifier using softmax regression.
+A COVID-19 vaccine sentiment classifier using Softmax Regression.
 
 # Featured
 
